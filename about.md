@@ -4,11 +4,8 @@ title: About
 permalink: /about/
 ---
 
-A 2nd year chemistry major at California Polytechnic State University.
+I am a 2nd year chemistry major at California Polytechnic State University in San Luis Obispo. I am also minoring in biotechnology. In my free time I enjoy hiking, going to the beach, and exploring San Luis Obispo.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
