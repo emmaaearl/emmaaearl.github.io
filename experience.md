@@ -4,6 +4,6 @@ title: Experience
 permalink: /exp/
 ---
 
-I have been a learning assistant in the chemistry department for 3 quarters and have gained new skills in teaching chemistry.
+I am currently finishing my second quarter of being a learning assistant for general chemistry classes here at Cal Poly. I have learned a lot by helping other students learn chemistry and it has made me like it even more. It has also been a super great way for me to solidify my understanding of basic chemistry concepts that I will be using in future chemistry courses. 
 
-I am also a member of an organic synthesis research group where we are working with oximeethers and surfactants.
+I am also a member of an organic synthesis research group at Cal Poly where we are working with alkoxyamines for many different purposes. I have learned so much from being in the lab and working with other student researchers.
